@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="6141" started-at="2022-06-30T16:41:33Z" finished-at="2022-06-30T16:41:39Z">
+  <suite name="Default suite" duration-ms="6792" started-at="2022-07-03T13:41:54Z" finished-at="2022-07-03T13:42:00Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="6141" started-at="2022-06-30T16:41:33Z" finished-at="2022-06-30T16:41:39Z">
+    <test name="Default test" duration-ms="6792" started-at="2022-07-03T13:41:54Z" finished-at="2022-07-03T13:42:00Z">
       <class name="Selenium_Demo.Practise.SampleScenario_01">
-        <test-method status="PASS" signature="TC01()[pri:0, instance:Selenium_Demo.Practise.SampleScenario_01@5f341870]" name="TC01" duration-ms="6122" started-at="2022-06-30T16:41:33Z" finished-at="2022-06-30T16:41:39Z">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:Selenium_Demo.Practise.SampleScenario_01@327b636c]" name="TC01" duration-ms="6769" started-at="2022-07-03T13:41:54Z" finished-at="2022-07-03T13:42:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01 -->
       </class> <!-- Selenium_Demo.Practise.SampleScenario_01 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
