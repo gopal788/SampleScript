@@ -10,7 +10,7 @@ public class SampleScenario_01
 	@Test
 	public void TC01()
 	{
-		System.setProperty("webdriver.chrome.driver", "D:\\Demo\\Practise\\Driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\Driver\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.MINUTES);
 		driver.get("https://www.amazon.com/your-account");
